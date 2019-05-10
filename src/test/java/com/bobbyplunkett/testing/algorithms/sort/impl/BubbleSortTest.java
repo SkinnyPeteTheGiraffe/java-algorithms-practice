@@ -1,4 +1,4 @@
-package com.bobbyplunkett.testing.algorithms.sort;
+package com.bobbyplunkett.testing.algorithms.sort.impl;
 
 import com.bobbyplunkett.testing.algorithms.sort.impl.BubbleSort;
 import com.bobbyplunkett.testing.utils.RandomTestDataGenerator;

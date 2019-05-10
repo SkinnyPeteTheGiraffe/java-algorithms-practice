@@ -12,3 +12,4 @@ implemented algorithm.
     * Insertion Sort
     * Bubble Sort
     * Heap Sort
+    * Quick Sort
